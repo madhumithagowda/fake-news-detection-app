@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 import base64
 import matplotlib.pyplot as plt
-import pyttsx3
+
 
 
 # ===== Apply custom CSS from external file =====
@@ -44,18 +44,6 @@ st.markdown("<h3>Check if a news article is <em>Real or Fake</em> using Machine 
 model = joblib.load("model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
 
-
-# ===== TEXT TO SPEECH FUNCTION =====
-def text_to_speech(text):
-    try:
-        engine = pyttsx3.init()
-        engine.setProperty('rate', 150)
-        engine.setProperty('volume', 1)
-        engine.say(text)
-        engine.runAndWait()
-    except Exception as e:
-        st.error(f"Text-to-speech error: {e}")
-
 # ========== 1️⃣ SINGLE TEXT CHECK ========== #
 st.subheader("✍️ Enter a News Article")
 
@@ -75,9 +63,6 @@ if st.button("Check"):
             st.success("✅ This news is Real.")
         else:
             st.error("❌ This news is Fake.")
-
-        # ✅ Text-to-Speech Output
-        text_to_speech(result_message)
 
         # ✅ Send result by Email if email entered
         if user_email.strip() != "":
