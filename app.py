@@ -71,7 +71,7 @@ uploaded_file = st.file_uploader("📁 Upload a CSV file with a *text* column", 
 
 if uploaded_file is not None:
     try:
-        df = pd.read_csv(uploaded_file)
+        df = pd.read_csv(uploaded_file, encoding='latin1')
 
         if 'text' not in df.columns:
             st.error("❌ CSV must have a column named 'text'.")
