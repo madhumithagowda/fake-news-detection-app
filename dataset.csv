@@ -1,11 +1,805 @@
-title,text,label
-Fake Election Result,"The election was totally rigged and no one counted the votes properly.",0
-Real COVID Vaccine,"The WHO announced approval of the new COVID-19 vaccine for emergency use.",1
-Fake Alien Invasion,"Aliens have landed on Earth and taken over the White House!",0
-Real Economy Growth,"The GDP of the country rose by 6% last quarter according to the finance minister.",1
-Fake Celebrity Death,"A fake rumor claims the famous actor died in a car crash.",0
-Real Sports Update,"India won the cricket series against Australia by 3-1 margin.",1
-Fake Moon News,"NASA says the moon is made of cheese in a leaked document.",0
-Real Education Policy,"The education ministry launched a new policy for NEP 2020 implementation.",1
-Fake Vaccine Side Effects,"Social media posts falsely claim the vaccine causes microchips to be implanted.",0
-Real Weather Report,"The IMD predicts heavy rainfall in coastal Karnataka over the next 3 days.",1
+text,labels
+Syria attack symptoms consistent with nerve agent use WHO,0
+Homs governor says U.S. attack caused deaths but doesnt see big human losses,0
+Death toll from Aleppo bomb attack at least 112,0
+Aleppo bomb blast kills six Syrian state TV,0
+29 Syria Rebels Dead in Fighting for Key Aleppo Road,0
+Suicide bombing kills at least 16 in northeast Syria,0
+22 dead in heavy U.S. raids on IS Syria stronghold,0
+Suicide bomber kills 4 in Assad clans hometown,0
+Explosion rocks down town Damascus,1
+Damascus explosion due to rocket bomb,0
+Syrian regime steps up aerial assault on Douma,1
+Hizballah leads regime offensive in southern Syria,1
+Syrian opposition remains divided,1
+IS video shows murder of 2 Syrian activists,1
+Syrias Nusra Front stages deadly suicide bombing in Aleppo,0
+Regime troops thwart rebel attack in Syrias Aleppo,0
+Ahrar al-Sham leader killed in Syria,1
+Barrel bombs kill 11 in IS town in Syria,1
+Rebels advance in north-western Syria,0
+Israeli strike on Syrian town kills pro-regime fighters,0
+Syria army plane crashes in rebel-held town,0
+Syrian regime revenge attack kills scores in Qalamoun,0
+Chemical Massacre in Idlib Defies the World,1
+Bus Bombing Marks End to Tragic Evacuation Deal in Syria,1
+Six Killed in Aleppo Bombing as Evacuation of 4 Syrian Towns Resumes ,1
+58 Killed in Suspected Gas Attack in Syrias Idlib,1
+MSF Syrian Regime Used Chemical Weapons in Hama,1
+Toxic Gas Dropped on Syrian Town After Russian Helicopter is Shot Down,0
+Syrian Opposition Sparks Aleppo Front to Relieve North Fractions,0
+Dozens Killed in International Coalition Airstrikes on Manbij,1
+Thirty Killed in Syrian Strikes on Damascan Suburb Town,0
+Russians and the Syrian Regime Use Internationally Banned Bombs to Attack Aleppo,0
+Syria Kurdish Islamist violence kills 12 Al-Qaeda-linked fighters,1
+Syrian army advances near Aleppo,0
+Monitor 10 of 48 people executed by forces loyal to regime were children,0
+Suicide bomber kills 4 in Assad clans hometown,1
+US-led airstrikes target ISIS stronghold Raqqa,1
+Assad regime launches operation in Latakia region attacks Syrian Turkmen village,1
+Assad regime kills 18 civilians in Aleppo Monitor,1
+Russian airstrikes hit Syrian opposition forces,1
+Syrian warplane crashes into market in northwest town of Ariha near Turkish border kills 35 and wounds dozens,1
+Suicide bomb attack in Syrias Idlib mosque kills 25 senior Nusra Front leader,1
+16 civilians killed in Syrias Hasakeh after motorbike bomber attack,1
+2 medics among at least 31 dead in regime shelling of opposition-held Syrian town,0
+Assad regime airstrike kills 16 civilians in Syrias Aleppo,1
+Coalition airstrikes kill 85 civilians in Daesh-held villages in Syrias Manbij,1
+Assad regime surrounds Aleppo opposition groups resist despite intense raids,1
+US jets killed at least 15 civilians in Syria,1
+Fatalities expected to increase in suicide blast in Syria,1
+US-led air strikes in Syria kill dozens of civilians,1
+Syrian opposition advances into key Aleppo district,0
+Two Russian pilots killed in Syria as DAESH downs chopper,0
+At least 15 dead as bomb hits refugee camp in Syrias Idlib,1
+Gas attack hits rebel-held areas of Aleppo report,1
+Syrian regime forces drops vacuum bomb on Idlib,0
+Chemical attack in Idlib draws international condemnation,0
+Regime air strikes kill 22 in Syrias rebel-held region,1
+Air strikes kill at least 18 in northwestern Syria,0
+Multiple Daesh suicide bombers attack refugee camp in Syria,1
+Air strikes in Syria kill eight White Helmets activists,1
+Air strikes hit hospital and kill 26 people in Idlib,1
+Deadly bomb blast hits Syrias Aleppo,1
+At least 100 killed after bomb hits bus convoy in Syria,0
+Suicide bomber kills 16 in Syrias Hasakah,1
+Bombs continue to fall on Syria despite regime truce,1
+Syrian rebel fighters killed in IS suicide bomb attack,1
+Scores of Syrian rebels killed over key Aleppo road,0
+US-led coalition raids kill scores of civilians in Syria,0
+Dozens killed in bombardment on rebel-held Aleppo,0
+Seven children killed in Syrias rebel-held Aleppo,1
+Syria Airstrikes destroy Idlib MSF hospital leaving 13 dead,0
+Dozens killed by Russian air raids over IS-held Raqqa,1
+Four killed in suspected gas attack on Aleppo,0
+Three women killed while attending funeral in Syrias Madaya,0
+Violence rages on in Syria as dozens more killed,1
+More than 50 civilians killed in Syrias Aleppo,0
+Syrian regime bombs Kurdish fighters for second day,1
+Barrel bomb attack kills 11 children in Syrias Aleppo,1
+Children killed in Syrias Homs by napalm mortar rounds,0
+7 killed in regime strikes on besieged Homs neighbourhood,0
+Dozens killed hospital damaged after strikes hit northwest Syria,0
+Scores killed in gas attack in rebel-held Syria town,0
+Syrian regime airstrikes kill 22 civilians near Damascus,0
+Shelling of rebel bastion near Syrian capital kills 19,0
+Syrian airbase struck by US missiles Whats the damage?,1
+Strike on Syrias Idlib kills 18 including five children,1
+Sarin nerve gas used in Syria British scientists,1
+Syria rebels battle to break Aleppo siege,1
+Syrian children killed in west Aleppo school attack,0
+Idlib bombing deadliest school attack in Syrias war,0
+Students among scores dead as raids hit Syria school,0
+Two dead twenty injured in Syrian regime chlorine attack,0
+Heavy Syrian regime bombing in Idlib kills civilians,1
+Russia says Belgian strikes kill six in Aleppo region,1
+24 hours of bombardment in Aleppo kills 45,0
+Dozens killed in car bomb attack on Syrian rebels,1
+Airstrikes continue to rain down on east Aleppo,1
+Russia launches new crippling air raids on Aleppo,1
+Eleven killed in Syrian-regime controlled area of Aleppo,1
+Air raid kills 19 Syrians in IS-held village,1
+Suicide attack on Syria wedding kills 32,0
+Suicide attack on Kurdish wedding in Syria kills 22,1
+Two killed in Qatar Red Crescent Syria clinic bombing,0
+Syrian refugee camp hit with missiles and bombs,0
+Aleppo Scores killed in airstrikes targetting UN aid convoy,1
+First civilians killed in Aleppo since start of ceasefire,1
+Syrian children killed in missile attack on school,1
+Five dead in Syria airstrikes ahead of planned ceasefire,0
+Syria Regime kills 25 civilians in Hama airstrikes,0
+Hundreds dead as fresh airstrikes hit Syrias Aleppo,1
+Deadly Aleppo convoy attack threatens aid distribution in Syria,1
+Four medics killed in strike on clinic near Aleppo,1
+Syrian Civil Defence US Russia regime attacked aid convoy,1
+Syrian regime repels rebel offensive near Aleppo killing 40,1
+Syrian regime offensive in northern Aleppo leaves 70 dead,1
+Unicef confirm 25 children among Deir Ez-Zor dead,1
+Scores of civilians killed in airstrikes on Raqqa,0
+Heavy regime losses in Islamic States Raqqa counteroffensive,1
+Three children killed in regime airstrikes on Homs,1
+Four Hizballah members killed fighting in Syria,1
+Dozens dead after suspected Russian strike on Idlib marketplace,1
+Airstrikes in Syria kill dozens at start of Ramadan,1
+Dozens of Syrian regime air raids on rebel-held Aleppo,1
+Syrian regime airstrikes kill dozens in and around Aleppo,1
+Airstrikes kill 28 civilians in Syria safe zone monitor,1
+US-led strike kills 18 civilians in Syrias Raqqa,0
+Deadly twin bombings hit Damascus police station,1
+Russian airstrike kills scores of fleeing civilians in Deir az-zor,0
+Syrian regime airstrike on Idlib market kills children,0
+Triple suicide attack near Damascus police HQ ministry,1
+Rebel shelling kills four civilians in Damascus monitor,0
+Three White Helmets workers and six children killed in Syria air,1
+Civilians killed in relentless regime bombing of besieged Damascus,0
+Syrian regime airstrikes target besieged Eastern Ghouta Deir az-zor,1
+Russian strikes kill 53 civilians in Syrias Deir az-Zour,0
+10 dead after strikes on rebel-held hospitals in Syria,1
+Aleppo bomb blast kills six Syrian state,1
+Dozens of children dead in Syria evacuees bombing,1
+Death toll from Aleppo bus convoy bomb attack at least 126 Observatory,1
+Bombing of Syrian bus convoy kills wounds dozens outside Aleppo,1
+Death toll in bomb attack on Syria evacuees hits 43 Monitor,0
+40 dead in clashes between Islamist militants near Damascus Monitor,1
+US-backed Syrian fighters pressing IS gunmen in north,1
+Strike kills 15 including 4 children in Syrias Idlib Monitor,1
+One dead in raid on Syria chemical attack town Monitor,0
+86 dead in suspected Syria chemical attack New toll,1
+Shelling of rebel bastion near Syria capital kills 19 Monitor,0
+Suspected gas attack on Syrias rebel-held Idlib kills at least 58 Observatory,0
+Barrel bomb attack kills 11 children in Syrias Aleppo Monitor,1
+Syria regime pounds Kurdish positions for second day,1
+More than 30 Syrian rebels killed in IS group suicide blast,0
+Warplanes pound Syrias Idlib as battles rage in Aleppo,0
+Rebel fire in Syrias Aleppo kills 14 State media,0
+Air raids kill 10 near Syria hospital Monitor,1
+Barrel bombs kill at least 15 civilians in Syrias Aleppo Monitor,1
+10 civilians dead in air strike on Syria rebel town Monitor,1
+Syria regime bombing kills 16 in rebel-held Aleppo Monitor,1
+Double bomb attack kills 31 in Syrian Kurdish city state TV,0
+Syrian state TV says 22 killed in car bomb in northern Syria,1
+Aleppo rebel tunnel blast killed 38 regime forces monitor,1
+US-led strikes kill 56 civilians in Syria Monitor,1
+Coalition raids kill 21 civilians in IS stronghold in Syria Monitor,1
+Air raids kill 18 civilians in Syrias Aleppo Monitor,1
+Air raids kill 11 civilians in east Syria Monitor,0
+Air strikes kill 12 in rebel-held areas of Syrias Aleppo Monitor,0
+Air strikes kill 11 including children in Syrias Idlib monitor,1
+Coalition air strikes Turkish army kill 8 IS group militants Report,1
+Rocket attacks kill at least 30 in Syrias Aleppo,0
+Motorbike bomber kills 16 outside bakery in Syrias Hasakeh,1
+43 killed in Syria army shelling of rebel town Monitor,0
+2 medics among 31 dead in Syria army reprisal for slain pilot,1
+Syria air raids kill 25 civilians Monitor,0
+18 dead in IS attack on Kurd-held Syria town Monitor,0
+Syria rebel rocket kills five children,0
+Turkish air strikes kill 9 IS fighters in Syria Monitor,0
+12 civilians dead in Syrian raid on IS-held village Monitor,1
+Missile kills 18 civilians in Syrias Aleppo Monitor,1
+Barrel bombs kill 11 civilians in IS town in Syria,0
+13 civilians killed in regime air raids on northern Syria,0
+Huge regime bombs kill 28 in IS-held Syria town Monitor,1
+Bomb rockets kill 19 civilians in Syrias Aleppo Monitor,0
+9 dead as new Islamist alliance attacks Syrias Aleppo Monitor,1
+Air strikes in Syria kill at least 20 Islamic State fighters Monitor,1
+Syria regime air strikes kill 15 near Damascus Monitor,0
+Syrian air strikes kill 70 people after rebel rocket attack Monitor,0
+Syria strikes kill 45 after rebel fire on Damascus Monitor,1
+Syria air strikes kill 32 Monitor,0
+Seven dead 20 wounded in central Damascus blast Monitor,1
+Syria fighting kills 132 Islamic State fighters Monitor,0
+Suicide bomber kills 4 in Assad clans hometown,0
+Syria forces execute 10 children of alleged rebels Monitor,0
+35 IS jihadists killed in clashes with Syria Kurds Monitor,0
+Suicide bomber kills six in Syria restaurant Reports,1
+17 dead as Al-Qaeda attacks Syria Kurd town,0
+20 dead in air raids in Syrias Latakia province NGO,0
+Syrian army kills 62 rebels east of Damascus Monitoring group,1
+Bomb kills 18 in Damascus suburb state TV,1
+At least 40 killed in Syrian weapons depot blast,0
+Syria regime raids kill 10 in camp for displaced NGO,0
+IS attack on Syria oil field kills 30 Monitor,0
+Syria air strikes kill 10 children 5 women in Aleppo monitor,0
+10 Syrian troops killed in clashes with IS Monitor,0
+Syria regime bombing kills 21 including 8 children,1
+Twin blasts kill 30 Kurdish fighters in Syria Monitor,0
+US-led strikes on Syria kill 35 jihadists overnight Monitor,0
+US-led raids on Syria killed 14 jihadists 5 civilians,0
+US strikes kill 50 Qaeda fighters in Syria Monitor,1
+US-led strikes hit Qaeda in Syria as well as IS Monitor,0
+US-led strikes in Syria kill more than 20 jihadists Monitor,1
+Syria air strikes kill 42 including 16 children Monitor,1
+18 IS jihadists killed fighting Syria Kurds Monitor,1
+Syria air strikes kill dozens in rebel town Monitor,1
+Workers dig out dead after Syria regime strike on Aleppo,1
+UPDATED Regime air raids kill 42 near Syria capital New toll,0
+American among 18 jihadists killed in Syria raid NGO,0
+Syria army kills 32 rebels in Daraa province ambush NGO,0
+Syria bombs jihadist positions in Raqa for second day,1
+32 killed in Syrias Daraa Aleppo NGO,1
+Air raids kill 31 jihadists in Syrias Raqa NGO,0
+Syria troops kill at least 50 jihadists near Lebanon Monitor,1
+Syria air strike on jihadist camp kills 18 New toll,0
+85 Syria troops killed in jihadist advance Monitor,1
+Syria air raids kill 20 Islamic State militants monitor,0
+Russian strikes kill 34 civilians in Syrias Deir Ezzor Monitor,0
+IS car bomb kills 20 in eastern Syria State media,0
+At least 61 killed in air strike on Syrian market town Observatory,0
+Air raids kill 29 civilians in north Syria town Monitor,0
+65 bodies of civilians found in Syrian town taken from IS group,1
+Rebel shelling kills four civilians in Damascus Monitor,0
+At least 11 dead in Syria market air strike Monitor,0
+Russia strikes kill 120 IS group fighters over 60 foreign mercenaries in Syria,0
+Monitors 15 killed in missile strike on eastern Syria city,0
+US-led strike kills 18 civilians in Syrias Raqa Monitor,1
+At least 70 killed in north of Syrias Aleppo Monitor,1
+Russia regime strikes kill 47 in east Syria Monitor,0
+25 civilians killed in raids on Syria IS group bastion Raqa monitor,1
+Syria rebels kill 7 in Aleppo assault capture 3 villages Monitor,1
+Air strikes in Syrias Idlib kill more than 20 Monitor,1
+17 civilians dead in air strikes on market in east Syria Monitor,0
+Syria regime raids on Aleppo kill 16 civilians Monitor,1
+Updated 31 in Syria regime strikes in and near Aleppo civil defence,1
+Suicide bomber kills one in Syria regime stronghold State TV,0
+6 children among 19 dead in Syria regime bombing Civil defence,0
+Opposition minister among 12 dead in Syria car bomb Rebels,0
+Some 20 civilians killed in Syria aid convoy attack Red Cross,1
+Russia says 62 Syrian troops killed in US-led strikes,1
+24 killed in raids on Syrias Idlib Monitor,0
+New strikes kill at least 25 civilians in Syrias Aleppo Monitor,1
+Syrian army says rebel bombardment of Aleppo killed 84 in three days,1
+Dozens of civilians dead in rebel assault on Aleppo,0
+Rebels in Aleppo attack Putin cautious on new Russian raids,0
+Rebel fire kills 3 Aleppo schoolchildren state media,1
+Syria monitor says air strikes kill 22 in school in rebel-held Idlib,1
+Group IS group land mines killed wounded dozens in Syrian town,0
+16 dead in heavy bombardment on Syrias Idlib Monitor,1
+Air raids kill at least 12 civilians in Syrias Aleppo Monitor,1
+Turkish military says 31 IS group militants killed in northern Syria,0
+Blast at Syria-Turkey border kills 20 rebels Monitor,1
+Suicide attack on Syria wedding kills 32 Medical source,1
+ISIL crucifies 9 men in Syrias Aleppo NGO,0
+At least 10 Syrian soldiers killed in Israeli raids NGO,1
+Jihadists execute three Syria rebel officers Monitor,1
+Car bomb kills at least 34 in Syrias Hama State media - Region - World - Ahram Online,0
+Syria air raid on displaced persons camp kills 12 NGO - Region - World - Ahram Online,0
+20 dead in Syria barrel bomb attack in Aleppo,1
+Syria rebel infighting kills 45 fighters in 2 days - Region - World - Ahram Online,1
+Car bomb in Syrias Homs kills 10 Governor - Region - World - Ahram Online,1
+21 killed as Syria rebels shell Assad election rally Monitor - Region - World - Ahram Online,1
+Syrian army missile kills 23 including 8 kids - Region - World - Ahram Online,0
+Bomb in Syrias Idlib kills 30 government fighters Monitoring group - Region - World - Ahram Online,0
+11 children among 18 dead in Syria car bombings state media - Region - World - Ahram Online,0
+Car bomb rocket fire kill 45 in Syrias Homs Governor - Region - World - Ahram Online,0
+Mortar fire in Damascus kills 12 wounds 50 State media - Region - World - Ahram Online,1
+21 dead in rebel fire on regime parts of Aleppo NGO - Region - World - Ahram Online,1
+88 dead in two days of clashes in Syrias Daraa Monitor - Region - World - Ahram Online,0
+Air raid kills 21 at Syria market Monitor - Region - World - Ahram Online,1
+Air strikes kill dozens in Syrias Aleppo Monitor group - Region - World - Ahram Online,0
+Twin car bombs kill 25 in Syrias Homs State media - Region - World - Ahram Online,0
+29 rebels dead in Syria premature car bomb blast NGO - Region - World - Ahram Online,0
+Mortar fire kills two at Damascus Opera House State media - Region - World - Ahram Online,1
+More than 50 Syria rebels jihadists killed NGO - Region - World - Ahram Online,0
+Car bomb kills six in Syrias Homs NGO - Region - World - Ahram Online,0
+Car bomb blast kills 15 in Syrias Homs NGO - Region - World - Ahram Online,1
+Five dead in blast by security HQ in central Syria NGO - Region - World - Ahram Online,0
+Israeli attack on Syria military camp kills three | Jordan Times,0
+Dozens dead as car bomb hits Syria evacuees | Jordan Times,1
+Strike kills 15 near Syrias Daesh-held Raqqa monitor | Jordan Times,1
+Outrage as Syria ï_chemical attackï_ kills dozens in rebel-held town | Jordan Times,1
+Five dead as Russian military helicopter downed in Syria | Jordan Times,1
+Dozens dead as warplanes pound rebel-held north Syria | Jordan Times,1
+Dozens dead as warplanes pound rebel-held north Syria | Jordan Times,1
+At least 70 killed in north of Syriaï_s Aleppo ï_ monitor | Jordan Times,1
+Massive Daesh bomb attack kills 44 in Syrian Kurdish city | Jordan Times,1
+Syria regime advances on rebels in Aleppo ï_ monitor | Jordan Times,1
+13 civilians killed in regime air raids on northern Syria | Jordan Times,1
+Barrel bombs kill 11 civilians in Daesh town in Syria | Jordan Times,0
+Syria regime air strikes kill at least 39 ï_ monitor | Jordan Times,1
+Syria air strikes kill at least 44 ï_ monitor | Jordan Times,0
+Syria regime air strikes kill 15 near Damascus ï_ monitor | Jordan Times,0
+Massive Daesh bomb attack kills 44 in Syrian Kurdish city | Jordan Times,0
+At least 70 killed in north of Syrias Aleppo monitor | Jordan Times,1
+Syria rebels kill 7 in Aleppo assault capture 3 villages ï_ monitor | Jordan Times,1
+Raids on Syria market kill 21 hundreds flee Daesh bastion | Jordan Times,1
+ï_28 dead in Daesh counterattack on Syria regime forcesï_ | Jordan Times,0
+Syrian and Russian aircraft step up bombing of Aleppo city ï_ monitor | Jordan Times,1
+Syria air strikes kill 22 mostly children outside school | Jordan Times,1
+Syrian government push for Damascus rebel enclave kills at least 23 | Jordan Times,1
+Air strikes kill 4 in Syria ï_truce zoneï_ ï_ monitor | Jordan Times,1
+Syria regime bombardment kills 4 schoolchildren in besieged enclave | Jordan Times,1
+Russian strike kills 38 fleeing civilians in east Syria ï_ monitor | Jordan Times,0
+US-led strike kills 18 civilians in Syriaï_s Raqqa ï_ monitor | Jordan Times,0
+Russia says it kills 180 extremists mercenaries in Syria claims Shishaniï_s death | Jordan Times,1
+National News Agency - Damascus explosion due to rocket bomb,0
+National News Agency - Blasts in Syrias Homs kill 18 most children,1
+National News Agency - Coalition raids kill 35 ISIL fighters,1
+At least 100 killed after bomb hits bus convoy in Syria,0
+US-led air strikes in Syria kill dozens of civilians,1
+Two Russian pilots killed in Syria as DAESH downs chopper,0
+US jets killed at least 15 civilians in Syria,0
+Russian strikes kill 10 in Aleppo,0
+Syrian Russian air strikes kill 39 civilians in Idlib,1
+Syrian Russian air strikes kill 17 in city of Ashara,0
+Suicide attacks near Shia shrine kill 20 Syrian Observatory,1
+Russian and Syrian strikes kill 58 civilians,1
+US-Russia brokered Syria truce ends,1
+Air strikes in Syria kill at least 45 people,1
+String of bomb blasts kill at least 42 in Syria,1
+Heavy air strikes hit opposition-held parts of Aleppo,0
+UNICEF says 22 schoolchildren and six teachers killed in Syria raid,0
+Russian and Syrian regime strikes kill over 80 in Aleppo,0
+Car bomb in Syria kills at least 17 near Turkish border,0
+Russian jets resume airstrikes on Aleppo,1
+Suicide bombing kills 29 at Syria-Turkey border,1
+Suicide bomber targets Syrian wedding 20 killed,0
+Car bomb attack kills at least 26 in Syria war monitor says,1
+Air strikes kill dozens inside Syria de-escalation zone,1
+At least seven children die in regime shelling at rebel-held area in Syria,1
+At least 79 civilians killed by Russian and regime air strikes in Syria,0
+Russia air strikes kill at least 14 civilians in Syria monitor,0
+At least 17 dead as suicide bombings hit Damascus,1
+Unidentified air strike kills at least eight Hezbollah fighters in Syria,0
+At least 44 killed dozens injured as twin bombing targets Syrias Qamishli near Turkish border - Daily Sabah,0
+Air strike on Syrian hospital kills 10 monitoring group says - Daily Sabah,1
+10 civilians killed by Russian air strikes in Syrias Aleppo - Daily Sabah,1
+Russian airstrikes target civilians in Syrias Idlib 15 killed - Daily Sabah,1
+DAESH Russia Syrian regime target opposition - Daily Sabah,1
+Syrian warplanes pound Idlib leave 22 dead - Daily Sabah,0
+Assad regime helicopter kills 20 people with barrel bombs in Aleppo - Daily Sabah,1
+Syria uses chemical weapons Turkey offers remedy - ïÅlnur evik - Daily Sabah,1
+At least 100 civilians dead in toxic gas attack in Syrias Idlib,0
+Russian airstrikes hit Syrian opposition forces,0
+Opposition forces claim fighter killed others injured by Russian airstrikes in Syrias Idlib,0
+Russian strike kills 18 civilians in Syrias Idlib monitor,1
+Bomb kills woman wounds 25 in Syrias Homs,0
+Daesh terrorists kill 33 men in Syrias Deir el-Zour - Daily Sabah,0
+US coalition airstrikes kill 20 civilians in east Syria,0
+Airstrikes in northern and eastern Syria kill 20 civilians activists,0
+At least 126 dead in blast targeting evacuation convoy stranded near Aleppo,0
+US-led coalition airstrike kills 18 partner forces Pentagon says,1
+6 civilians killed 35 injured in Assad regime airstrikes in Syrias Idlib,0
+Assad regime targets civilians in Homs airstrikes,1
+At least 8 White Helmets rescuers killed in airstrike in Syrias Hama,0
+Airstrikes by Assad regime warplanes kill 4 in Syrias Idlib destroy mosque in Hama,1
+Assad regime kills at least 75 in refugee camp,0
+ISIS recaptures Syrian gas fields kills 30 monitoring group says,0
+At least 10 die in barrel bomb attacks by Syrian regime warplanes,1
+30 Kurdish fighters killed by twin blasts in Syria,0
+US-led raids kill 35 ISIS militants overnight monitor says,0
+School bombing kills 30 children in Syria monitor,0
+23 terrorists killed in N. Syria after Turkish artillery coalition jets pound Daesh targets - Daily Sabah,1
+Regime Russia air strikes kill 39 in Idlib as strikes continue to pound Road of death to Aleppo,1
+Daesh claims responsibility for bombings near Damascus at least 20 dead,0
+At least 44 killed dozens injured as twin bombing targets Syrias Qamishli near Turkish border,1
+Coalition airstrikes kill 85 civilians in Daesh-held villages in Syrias Manbij,0
+16 civilians killed in Syrias Hasakeh after motorbike bomber attack,1
+Assad regime airstrike kills 16 civilians in Syrias Aleppo,1
+25 children killed in airstrikes in eastern Syria in latest round of Russian Syrian bombing UNICEF,0
+15 killed 20 injured in airstrike on area near hospital marketplace in Syrias Aleppo,0
+8 civilians killed by Russian airstrike in Syria,0
+Syrian regime bombings kill 31 civilians in Aleppo region,0
+Turkish military kills 14 Daesh terrorists in Syria,1
+22 children 6 teachers killed in Russian Syrian airstrikes near schools in Idlib,0
+Daesh mines killed wounded dozens in YPG-held Manbij HRW says,1
+Aleppo airstrikes kill 36 people in opposition-held areas,0
+11 killed 25 injured in Russian air strike in Syrias Idlib,1
+Death toll rises in Aleppo while British FM blames Russia,1
+Suicide attack on wedding party in Syria kills 30 injures 90,1
+14 killed in suicide attack on Syria wedding,1
+21 moderate opposition fighters killed in clashes with Daish in northern Syria,1
+At least 23 killed in regime strikes in Aleppo as UN meets over Syria,0
+Assad regime strikes kill 92 civilians in Syrias Aleppo,1
+Assad air strikes kill at least 80 civilians including children in Syrias Aleppo,1
+Airstrikes on clinic kill 5 medics in Syrias Aleppo,1
+Air strikes kill 23 civilians in Daesh-held Syria town monitor,1
+19 civilians killed in Assad regime bombing near Damascus,0
+Assad regime airstrikes kill at least 9 civilians in Syrias Eastern Ghouta,1
+84 people including 17 children killed by Assad regime near Damascus UN says,0
+20 people killed 30 others injured in Daesh car bomb in eastern Syria,0
+Regime shelling kills 10 civilians including 6 children in Syrias Damascus,1
+Regime airstrikes kill 61 civilians in Aleppos opposition-held Atareb,0
+At least 17 killed in triple bombing in Syrias Damascus,0
+Jabhat al-Nusra terrorists execute 40 gunmen their families for attempt to surrender arms,0
+More than 100 civilians killed 700 injured in Aleppo shelling in August,0
+Syrian forces destroy over 60 terrorists on approached to Palmyra media,1
+Chemical attack claimes over 1000 lives in Syria,1
+US-led coalition airstrikes kill 14 civilians in northern Syria,0
+8 persons killed 58 others injured in terrorist rocket attacks on Aleppo city,1
+Ten civilians some of them children killed in airstrike by US-led coalition in Raqqa,1
+135 Civilians Killed in Escalating Bombardment on Idlib in Last Three Days,1
+Abdah: Assads Bombing of Aleppo Encouraged by International Communitys Bias,0
+18 Civilians Killed in Barrel Bomb Attack on Rural Aleppo,1
+10 civilians killed 15 injured in terrorist rocket attacks on Aleppo and Deir Ezzor,1
+ISIS executes three people in Raqqa and Deir Ezzor,0
+16 Civilians Dead in Coalition Strikes near Raqqa,0
+2 killed 8 injured in terrorist rocket attacks on Aleppo,1
+35 cases of suffocation in terrorist chemical attack on al-Hamadaniyeh area in Aleppo city,1
+51 martyrs from Kefraya and al-Fouaa escorted from Military Hospital in Aleppo,0
+Civilian killed 3 injured in terrorist attacks on Aleppo,0
+At least 6 civilians suffer suffocation cases in ISIS terrorist attack with toxic gas on Mare city Aleppo,0
+Terrorist rocket attack targets Aleppo city killing one civilian,1
+Syrian Army Kills 11 ISIL Terrorists Destroy Their Posits in Deir Ezzor,1
+8 persons killed 58 others injured in terrorist rocket attacks on Aleppo city,1
+Four killed including two women in terrorist attacks in Aleppo and Quneitra,0
+Terrorist attacks kill a woman injure 9 in Hasaka and Aleppo,0
+US-led coalition airstrikes kill at least ten civilians in Raqqa,0
+Three people killed five injured in terrorist rocket attack in Aleppo,1
+Nine persons killed 12 injured in terrorist attack in Aleppo city,1
+title: ISIL Kills over 50 in Central Syria Attack,1
+Two children killed 5 others injured in terrorist rocket attack in Aleppo,0
+Ten civilians some of them children killed in airstrike by US-led coalition in Raqqa,0
+Three civilians killed 12 others injured in terrorist attacks in Aleppo,0
+Family of six die in east Aleppo chlorine gas attack,0
+Syrian Coalition: FSA is the Only Force Able to Stand against Assad and ISIS,1
+Russian forces kill 120 ISIS fighters over 60 foreign mercenaries in Syria,1
+One person killed 16 others injured in terrorists rocket attacks in Aleppo,1
+35 Civilians Killed in Regime Air Raids on Rural Aleppo,1
+Three killed including 2 women 29 injured in terrorist rocket attacks in Aleppo city,1
+Dozens of Casualties in Syrias Aleppo Bomb Blast,0
+10 civilians killed 15 injured in terrorist rocket attacks on Aleppo and Deir Ezzor.,0
+Girl child killed two others injured in terrorist rocket attack on neighborhood in Aleppo city,1
+A child killed 7 people injured in terrorist attacks in Aleppo Damascus Countryside and Quneitra,1
+Alabdah: Deir Ezzor Subjected to Twofold Suffering Because of Assad Regime & ISIS,0
+Deadly Russian Airstrikes Kill 35 & Destroy Hospital in Idlib,1
+Zarif Urges Intl. Fact-Finding Mission to Probe Syria Gas Attack.,0
+13 civilians killed 43 others injured due to terrorist rocket attacks on Aleppo Damascus,0
+Assad Regime & Allies Intensify Attacks on Damascus & Its Countryside,0
+Silence over Russias Crimes Serves Its Goal of Undermining Political Solution,0
+ISIS kills more than 50 in central Syria attack.,1
+Seven killed 37 others injured due to terrorist attacks in Aleppo and Sweida,1
+Eight civilians killed others injured in terrorist rocket attacks in Aleppo and Homs,0
+Death toll in Syrian bombing raid on Aleppo rises to 76: monitor.,0
+Iran says Syria to let U.N. inspectors visit chemical sites,0
+Terrorist rocket attacks on Salah Eddin neighborhood in Aleppo kill 10 civilians injure 16,0
+Russian Aerospace Forces destroy ISIS oil refining stations kill 77 terrorists during past week,1
+Turkey says tests on Syria attack victims point to possible sarin exposure,0
+Syrian Coalition: Targeting Civilians Is Terrorism Pure and Simple as over 19 Civilians Killed in Russian Airstrikes on Rural Deir Ezzor,1
+Saudi Arabia calls for emergency U.N. Council meeting on Syria,0
+Assads forces bombard Damascus suburbs after gas attack: activists,0
+Syrian Coalition Urges UN to Relieve Deir Ezzor Residents,0
+26 People Killed in Russian & Assad Regime Airstrikes on Schools & Public Market in Rural Idlib,0
+Three civilians killed in rocket attack in Aleppo ISIS attacks Hasaka city with mortars and car bombs,0
+6 citizens killed 22 injured in terrorist attacks with shells in Damascus Aleppo and Idleb,1
+6 citizens killed 22 injured in terrorist attacks with shells in Damascus Aleppo and Idleb,0
+6 citizens killed 22 injured in terrorist attacks with shells in Damascus Aleppo and Idleb,0
+6 citizens killed 22 injured in terrorist attacks with shells in Damascus Aleppo and Idleb,0
+15 Medics Killed in Russian Airstrikes on Hospital in Southern Aleppo Syrian Coalition Describes the Attack War Crime,0
+Steifo: Regime & Allies Onslaught on Aleppo Failed to Achieve Its Objectives,1
+Terrorist organizations target with shells the UN offices in al-Meridian neighborhood in Aleppo,1
+Bombs in Syrias Aleppo kill 13 pro-Assad fighters: monitor,1
+Ten civilians injured in terrorist attacks in Daraa countryside Aleppo Damascus,1
+13 citizens killed in terrorist attacks on residential neighborhoods in Aleppo,0
+Alhassan Calls for UN Action to Stop Russias Use of Banned Weapons in Syria,0
+Assads Air Force Kills 65 Civilians in Raqqa,1
+Syrian Coalition Condemns Attack on Syrian Interim Government Headquarters in Azaz Aleppo,0
+Nine Civilians Killed in Regime Airstrikes on Rural Homs Today,0
+Seven people killed scores injured in terrorist attacks in Aleppo and Damascus,1
+ISIS Continues to Displace Locals in Rural Deir Ezzor,1
+54 Killed in Aleppo as Regime Commits Massacre against Civilians Fleeing Besieged Neighborhoods,1
+Abdah: Assads Bombing of Aleppo Encouraged by International Communitys Bias,1
+2 killed others injured in terrorist attacks with shells and mortars in Aleppo and Quneitra.,1
+18 Civilians Killed in Barrel Bomb Attack on Rural Aleppo,0
+Terrorist attacks leave child and woman dead and 7 others injured in Aleppo cause material damage in Daraa,0
+France Britain say U.N. must access alleged Syria attack site,1
+Terrorist attacks kill 10 injure scores in Aleppo and Idleb,0
+Interim Minister of Health: Aleppos Hospitals out of Service as Bombardment Continues,0
+Syrian Coalition Mourns 5 Rescue Workers Killed by Airstrikes on Rural Aleppo,1
+Russian General Staff Warns Against New US Missile Strikes on Syria,1
+Syrian Coalition: Russia Offering the Syrian People a Choice between Accepting Assads Terms or Total Annihilation,0
+Russia: Terrorists breached cessation of hostilities 3 times in 24 hours all breaches in Aleppo,0
+Syrian Coalition Demands UN Action under Chapter VII Following Regime Chlorine Attacks on Saraqib Idlib,0
+Syrian Coalition Demands UN Action under Chapter VII Following Regime Chlorine Attacks on Saraqib Idlib,1
+Syrian Coalition Declares Idlib Disaster Area amid Deadly Aerial Campaign,0
+Assad Regime Escalates Attacks on Besieged Alwaer District in Homs to Force Residents out,1
+Islamic State killed 270 in Syrian gas field battle: monitor,0
+Islamic State killed 270 in Syrian gas field battle: monitor,1
+France seeks U.N. resolution on Syria chemical arms.,0
+80 Civilians Killed by Russian Airstrikes on Aleppo despite 48-Hour Truce,0
+Death toll from terrorist rocket attacks in Aleppo rises to 8 more casualties reported in Idleb and Damascus,0
+Syrian Coalition: Assad Used Chemical Weapons 136 Times since Ghouta Massacre,1
+Mother child killed in east Aleppo bombardment,1
+Syrian Coalition Condemns Horrific Massacre by Russian Air Force in Town of Atareb Aleppo Province,0
+Assad Regime Commits Horrific Massacres After Loss of Idlib,0
+Assad Regime Commits Horrific Massacres After Loss of Idlib,1
+Deir Ezzor Civilians Stuck between the Regimes Hammer and ISISs Anvil,0
+Five killed four injured in terrorist attacks in Aleppo Hama Damascus and its Countryside,0
+Kerry discusses chemical attack with Syrian foreign minister,1
+Dozens Killed in Intensified Russian & Regime Airstrikes on Idlib,0
+Russian Airstrikes Hit MSF Hospital in Idlib,0
+Iranian Militias Carry out Summary Executions against Civilians in Aleppo.,0
+Russian Airstrikes Disrupt Last Remaining Ambulance Service in Rural Aleppo,0
+Syrian Coalition Calls for Holding Assad Regime Accountable for Repeated Chemical Attacks,1
+French FM: all indications Syria behind chemical attack,0
+Death toll from terrorist attacks on Aleppo rises to 12 with over 200 injured,1
+25 civilians killed 80 injured in rocket terrorist attacks on Aleppo city during the past 24 hours,0
+Syrian Coalition Urges Intl Community to Stop Crimes by Regime and Russia against Syrian Civilians,1
+Syrian Coalition Decries the US-led Alliances Silence over Al Raqqa Massacre,0
+Security Council seeks clarity on chemical weapons reports in Syria,0
+Factbox: Congress debates Obamas plan for Syria strikes,0
+Syrias Assad regime likely responsible for chemical attack: rights group,0
+Three killed over 70 injured in terrorist attacks including with chemical weapons in Aleppo,1
+The army advances on al-Rasafa in Raqqa shoots down a drone for ISIS terrorists,0
+Obama says is shifting to domestic priorities from Syria focus,1
+A new family escapes the crimes of terrorists and gets out of Aleppo eastern neighborhoods,0
+U.N. inspectors to visit Syria chemical attacks sites,0
+Kurd-led forces press Islamic State near Syrias Raqqa,1
+Syrian army Islamic State clash near army airport: monitor,0
+Over 500 Civilians Killed in One Week in Ongoing Bombing Campaign Majority of Them in Aleppo,1
+135 Civilians Killed in Escalating Bombardment on Idlib in Last Three Days,0
+Russian Defense Ministry: More than 100 ISIS terrorists killed in Deir Ezzor,1
+World powers on right track on Syria chemical arms: Putin,0
+Coalition Letter to UN & UNSC Presses for Stopping Assads & Russias Onslaught on Aleppo.,1
+Islamic State executed 700 people from Syrian tribe: monitoring group,0
+U.S. leaves door open to new U.N. vote on Syria Arshad Mohammed,1
+Syrian Islamist insurgents launch battle to seize government-held Aleppo,0
+Syria fighting worst since Aleppo air strikes deadly: aid agencies,1
+The Army establishes control over Jabal Badro neighborhood in Aleppo al-Halk area east of the city,1
+Factbox: Syrias city of Hama site of new assault,1
+Factbox: Syrias city of Hama site of new assault,0
+ISIS attacks Kurdish-held town on Turkish border,0
+ISIS attacks Kurdish-held town on Turkish border,1
+Four people killed including child 25 others injured in terrorist attacks in Damascus its countryside Aleppo Homs Quneitra and Hasaka,1
+The Assad Regime & Chemical Weapons,0
+World leaders react to Syria chemical attack claim,0
+10 people mostly schoolchildren killed in terrorist rocket attacks on Aleppo,1
+10 people mostly schoolchildren killed in terrorist rocket attacks on Aleppo,0
+10 people mostly schoolchildren killed in terrorist rocket attacks on Aleppo,1
+Army establishes control over Minian town in Aleppo continues to advance in other areas,0
+Hundreds dead as Islamic State seizes Syrian air base: monitor Sylvia Westall,0
+Hundreds dead as Islamic State seizes Syrian air base: monitor Sylvia Westall,1
+Rescuers say gas dropped on Syrian town where Russian copter downed,0
+Blaming Assad Trump says Syria attack cannot be tolerated,1
+Death toll mounts after bomb blast on Aleppo evacuee bus convoy,0
+Syrian opposition: 1300 killed in chemical attack on Ghouta region,1
+Syria: have the Chemical Weapons gloves come off?,0
+Activists say more than 200 killed in gas attack near Damascus,1
+Islamic State beheads crucifies in push for Syrias east,1
+Rebels launch assault in Syrias divided Aleppo,0
+Assad regime responsible for awful Syria chemical attack: EUs Mogherini,1
+Rebel-held zone of Syrias Aleppo braces for renewed bombardment,0
+Syrian Russian jets pound rebel areas,1
+U.N. chief pushes Syria to allow for chemical attack probe,1
+Syria gas kills hundreds Security Council meets,1
+Bomb blast kills 60 in Damascus suburb,0
+Car bomb kills four in Damascus,0
+Saudi-backed rebels behind Syria chemical attack report,0
+Extremism takes hundreds of lives in Latakia,1
+40 Syrians die in ammo depot blast.,1
+ISIL terrorists massacre 250 Syrian troops in Raqqa,1
+ISIL kills 700 people from Syrian tribe,1
+Syrian air strikes on ISIL-controlled Raqqa kills 19,0
+ISIL terrorists execute 50 captive Syrian troops in Raqqa,0
+Hundreds killed as Street Battles Rages in Kobni,1
+35 Dead Dozens Wounded in Terrorist Battle in Aleppo,1
+Syria Kurds Liberate Tel Hamiskills 175 ISIS Members in Week,0
+Syria Kurds Liberate Tel Hamiskills 175 ISIS Members in Week,1
+ISIS Begins to kill Abducted Christians in Hasaka of Syria,0
+ISIS Behead or Shot 15 Captured Assyrian Mass killing in Friday,1
+Terrorist Attack on Damascus kill 5 injure 50,1
+Al-Nusra Front Commander Killed in Lattakia in Syria,0
+Israeli Strike on Syrian Town Kills 5 Soldiers,1
+In an Ambush Syrian Forces Kill 35 Terrorists,1
+ISIS Video Shows Killing of 2 Syrian Activist PICTURES,0
+Hezbollah Syrian Army Kill 2 Al-Nusra Front Commanders in Qalamoun,1
+40 Terrorists Killed in Latest Syrian Army Offensive in Aleppo,0
+More Than 100 Jeish Al Fatah Terrorists Killed by Syrian Army in Aleppo,1
+Senior Nusra Front Leader in Homs 8 More Killed in Syrian Army Offensive,1
+21 Civilians Killed in US-Led Coalition Attacks in Northern Syria,1
+SDF Foiled ISIS Attack in Northeastern Aleppo 80 Terrorists Killed,0
+Senior ISIS Commander 34 Terrorists Killed in Clashes Eastern Aleppo,1
+Syrian Army Kills 10 Terrorists in Missile Attack Northwest of Hama Province,1
+Syrian Army Killed Notorious Al-Nusra Emir in Northern Homs,0
+Daesh Terrorist Group Execute 70 Members in Raqqa,1
+Aleppos Civilian Massacre Continues 88 Killed & Injured,1
+175 Nusra Terrorists Killed Injured in Castello Road in Aleppo,1
+URGENT 19 Killed and Injured in Tell Abyad Terroirst Attack in Northern Syria,0
+Daesh kidnapped 900 Executed 18 People in Syrias Aleppo,1
+Turkey Coalition Kills 20 Daesh Terrorists in Northern Syria of Aleppo,0
+Daesh on the Run From Areas in Raqqa Province 30 Terrorists Killed,1
+23 ISIS Terrorists Killed in Turkey US-Led Coalition in Syria Report,0
+15 Syrian Civilians 3 Children Killed in Aleppo by US Airstrikes Report,1
+Hezbollah Al-Nujaba Kills 23 Al-Nusra Militants in Syrias Khan Touman,0
+Terrorist Groups Infighting in Eastern Ghouta Killed More than 350 Militia,0
+Syrian Air Force Targets ISIS in Deir El-Zour 25 Terrorist Killed,0
+Dozens Killed Injured in Terrorist Missile Attack on Syrias Aleppo Hospital,0
+Syrian Army Killed 175 ISIS Terrorists in Oil Field East of Homs,0
+57 Civilians killed 150 Injured in Continued Terrorist Attacks on Aleppo,0
+9 Injured in New Terrorists Mortar Shell Attacks on Aleppo Neighborhood,0
+Kurds kill 83 Injured 100 ISIS Terrorists in 2 Days Near Efrin,1
+Al-Nusra Al-Qaeda Terrorists Attacks Kill 12 Civilians in Syrias Aleppo Hama,0
+150 Terrorists Infiltrated Syria from Turkey in Latakia Russian Coordination Center,1
+6 Killed 12 Wounded in Al-Nusra Front Shelling of Sheikh Maqsood,0
+23 Killed Over 100 Injured in Jaysh al-Islam Chemical Attack in Aleppo,0
+2 Civilians Killed 9 Injured in Terrorist Attack in Aleppo,0
+Terrorist Attack Kills Two Injures Three in Aleppo city,0
+Turkeys Nightmare; Kurds Come Closer to Azaz 6 ISIS Bombers Killed,1
+Over 100 ISIL Terrorists Killed in Russian Offensive in Homs,1
+18 Militants Killed in Car Bomb Blast in Syrias Quneitra,1
+Twin Bomb Attacks Kill 50 Injure Dozens in Syrias Homs Province,1
+More than 100 Terrorists Killed in Syrian Army Operations across Country,1
+Syrian Army Kills over 100 ISIS Terrorists in Deir Ezzor,1
+Terrorist Rocket Attacks Kill 10 Civilians Injured Dozens in Daraa,1
+At Least 10 Civilians killed 40 injured in Rocket Fire in Daraa Syria,0
+US Coalition Warplanes Kill Tens of Civilians in Syrias Aleppo,1
+Syrian Army Units Kill over 70 Terrorists in Hama Province,1
+6 killed in Airstrike on Village in Aleppo Province Belgian F-16 Jets in Area,0
+Over 50 Jaysh Al Fateh Terrorist Killed in Clashes with Syrian Army,1
+Syrian Army kills 33 Fateh Al Sham Terrorist Captured 10 in Rural Daraa,0
+Over 3 Killed 40 Injured in Terrorists Rocket Attack on Western Aleppo,0
+Child Killed 20 People Injured in Terrorist Attacks in Damascus its Countryside Aleppo Homs Hasaka,0
+2 Killed 10 Injured in Terrorist Shelling in Aleppo Residential Neighborhood,1
+70 Killed in Syrian and Russian Airstrikes on ISIS Training Camp in Homs,1
+Nusra Front Mortar Attack Kills Injures over 70 Syrians in Eastern Aleppo Province,0
+8 Killed 25 Injured by Terrorist Rocket Attacks on Aleppo City,0
+US-Led Coalitions Bombing of Raqqa Leaves 20 Syrian Civilians Dead Reports,0
+At Least 48 Killed and Injured in Terrorists Mortar Attacks in Aleppo,1
+50 ISIS Terrorists Killed in Syrian Army Anti-Terrorism Operations in Eastern Homs,1
+ISIL Uses Chemical Weapons in Syrias Aleppo,0
+Syrian Army Foils Attack on Deir ez-Zor Killing 60 Daesh Terrorists,0
+At Least 40 Civilians Killed in US Warplanes Bombardments in Manbij,1
+200 Jeish Al Fatah Terrorists Killed by Syrian Army in Aleppo,1
+More than 30 Syrian Rebels Killed in ISIS Suicide Blast,0
+70 Militants Killed in Aleppos Military Academy in Clashes with Syrian Army,1
+Jeish Al Fatah Pounds down by 56 Airstrikes 60 Terrorists Killed Tens Injured,1
+40 Civilians 25 YPG Fighters Killed 110 Injured by Turkey Near Jarablus,1
+Syrian Army Kills Top Terrorist Commander in Daraa Province,0
+4 Turkish Troopers Killed 4 Wounded in Daesh Attack in N Syria,1
+Syrian Jets Pounds ISIS Offensive in Hama Killing 50 Terrorists,0
+Death toll in bomb attack on Syria evacuees rises to 112,1
+US airstrikes kill 23 civilians in Syrias Deir ezzor,1
+20 civilians killed 30 injured in car bomb attack in Deir Ezzor,0
+At least 45 killed in US airstrike in Syrias Raqqa Local reports,1
+Russia says kills 7 Nusra Front field commanders in Syria air strike,1
+Syria Accuses Rebels of Using Chemical Weapons,0
+Syrian Opposition Claims Poisonous Gas Attack,1
+Syrian Army Kills 70 IS Militants in Two Days Near Syria-Turkey Border,0
+50 Civilians Killed by Coalition Airstrikes Against IS in Syria UN,0
+US-Led Airstrikes Against IS Kills 10 Civilians in Syria Syrian Observatory,1
+Double Terrorist Attack in Homs Kills 18 Including 10 Children Reports,1
+US Airstrikes Kill 11 Civilians Inculding Children near Syrias Aleppo Reports,0
+Explosion Kills Four in Hometown of Assad Family,1
+Islamists Launch Rocket Attack on Damascus At Least 3 Killed 30 Wounded,1
+At Least Six Lebanese Pilgrims Killed Dozens Hurt in Damascus Bus Blast,0
+At Least 25 Killed in Suicide Blast at Army Outpost in Aleppo,0
+Explosion in Syrian Mosque Leaves At Least 25 Dead,0
+Over 20 Daesh Terrorists Killed in SDF Operations in Syrian Main Battlefields,1
+At Least Five Police Officers Killed in Damascus Blast,1
+Russian Jets Destroy Daesh Training Center Take Out Seven Commanders in Syria,1
+US-Led Coalition Airstrikes Kill at Least 12 Civilians in Syrian Deir ez-Zor,1
+At Least Three Civilians Killed in Daesh Shelling of Syrias Deir ez-Zor - Sputnik International,1
+Russian Forces Destroy Daesh Command Post in Syria Killing About 80 Terrorists,1
+Russian Airstrikes Destroy Daesh Command Center Kill 70 Terrorists Near Mayadin,1
+Two Suicide Bombers Detonate Explosives Near Police Station in Syrias Damascus,1
+Daesh Executes 128 Civilians in Town for Cooperating with Syrian Government,0
+Hama Province Syrian Troops Reportedly Kill 30 Terrorists Free 19 Civilians,0
+US-Led Coalition Airstrike Kills Over 100 Civilians in Manbij,1
+Six People Killed in Shelling of Central Damascus Hospital Staff,1
+Terrorists Shell Syrias Aleppo Al-Baath Killing 4 Injuring 7,1
+US-led Coalition Kills Over 20 Daesh Operatives Plotting Terrorist Attacks,0
+Syrian Airstrikes Kill Over 100 Daesh Fighters in Hama Province,1
+Suicide Blast Near Ahrar al-Sham Militants HQ in Syria Leaves 45 Dead,0
+Daesh Attacks Syrian Deir ez-Zor With Rockets Kill 3 Civilians,1
+Death Toll From Daesh Militants Attack on Village in Syrian Hama Reaches 51,0
+Syrian Army Kills Wounds Dozens Daesh Militants in Deir ez-Zor - Sputnik International,1
+US-led Coalition Strikes on Syrian Abu Kamal Leave 31 Civilians Dead,1
+US-Led Coalition Strike on Raqqa Kills 20 Civilians,1
+Russian Airstrikes Kill 120 Daesh Terrorists Fleeing From Raqqa,1
+Eight Civilians Killed in US-Led Coalitions Airstrike West of Syrias Raqqa,1
+Clashes Between Several Militant Groups in Damascus Suburbs Leave 100 Dead,1
+Kurdish SDF Kills 23 Daesh Militants as Part of Operation to Liberate al-Tabqa,0
+Kurdish PYD Armed Wing Kills 17 Turkish Soldiers in North Syria,0
+Alleged Israeli Strike Killed 3 Syrian Defense Forces Fighters in Golans,1
+Over 130 Civilians Children Killed in April 15 Terrorist Attack Near Aleppo,1
+Kurdish-Led Forces Kill 47 Daesh Militants in Northern Syrian City of Al Tabqah,1
+Center of Damascus Shelled 2 Civilians Killed 7 Injured,1
+Kurdish-Led Forces Kill 35 Daesh Militants in Northern Syria in 24 Hours,0
+Death Toll in Blast Targeting Evacuees From Besieged Towns in Aleppo Rises to 70,1
+US Coalition Strike Accidentally Kills 18 Kurdish-Led Moderate Rebels in Syria,1
+Syrian Army Eliminates Over 75 Nusra Front Militants in Southern City of Daraa,1
+Kurdish-Led Forces Eliminate 12 Daesh Militants Near Al Tabqah in Northern Syria,0
+Civilian Death Toll in US-Led Coalition Airstrike in Raqqa Rises to 20,1
+At Least 10 Civilians Die in US-Led Coalitions Strikes Near Raqqa,1
+US Missile Strikes on Syrian Airbase Killed Four Children Living Nearby,1
+US Missile Strike on Syria Kills Five Injures Seven - Homs Governor,1
+At Least 27 Children Killed in Syrian Idlib Attack,1
+Kurdish SDF Troops Kill 13 Daesh Militants Near Syrias Town of Al Tabqah,1
+Extremists in Syria Admit Killing 30 Alawites,1
+Militants Attack Syrias Idlib Kill 3 Including Journalist,1
+Damascus Car bomb Kills Four,0
+Syrian Army Kills 40 al-Nusra Front Members in Damascus Ambush,1
+17 Killed as Qaeda Attacks Syria Kurd Town,0
+33 Militants Claimed in Syria in Fierce Fighting of Homs Aleppo,0
+Syrian Army Kills Dozens of al-Nusra Members in Adra Ambush,0
+Bomb Kills 18 in Damascus Suburb,1
+Damascus Car Bomb Kills 70 People at Least,1
+Deadly Blast Hits South Damascus,0
+ISIL Armed Groups Battle in Rural Idlib 13 Killed,1
+30 ISIL Militants Killed in Clashes with Kurds in NE Syria,1
+ISIL Kills 20 FSA Members on Qalamoun Barrens,1
+ISIL Nusra Clash Fiercely on Qalmoun Barrens 25 Terrorists Killed Injured,1
+Syrian Army Kills over 60 ISIL Terrorists in Deir Ezour,1
+Kurdish Forces Kill 16 ISIL Terrorists in Syria,1
+50 ISIL Terrorists Killed in Kobani in 24 Hours,1
+ISIL Claims Beheading of 18 Syrians US Aid Worker,0
+Syrian Army Kills Terrorist Commander on Barrens of Assal Al-Ward in Qalamoun,0
+Syrian Army Kills Terrorist Commander in Qalamoun Advances in Deir Ezour- Al Manar TV Website Archive,1
+Mortar Attack Targets Damascus School Claims 11 Children,0
+ISIL Beheads 8 Syria Militants despite Surrendering,0
+100 ISIL Terrorists Killed in Kobani,1
+Twin Car Bombs in Syrias Homs Kill 32 Most School Students,1
+Syrian Army Frustrates Terrorist Attack on Qalamoun Kills 10 Terrorists,0
+47 Leaders of Ahrar Al-Sham Killed in Idleb Blast,0
+28 Terrorists Killed in Idleb Syrian Army Regains Several Towns in Hamah,1
+Syrian Army Kills 18 ISIL Terrorists in Deir Ezour Advances in Jobar,1
+ISIL Kills Crucifies 5 Syrians in Deir Ezzor,1
+Syrian Army Kills 15 Terrorists in Qalamoun Advances in Jobar,1
+Syrian Army Kills 50 Al-Nusra Front Terrorists in Daraa,1
+Syrian Army Ambushes Kills 140 ISIL Terrorists in Raqqa Countryside,1
+Syrian Army Kills 31 ISIL Terrorists in Raqqa Province,1
+At Least 19 Executed by ISIL in Deir Ezour,1
+Syria Terrorists Commit Massacre in Hama Village 14 Civilians Killed,0
+Syrian Army Kills over 80 Terrorists in Various Provinces,0
+Twin Suicide Blasts Target Checkpoint near Damascus Claim 4 Martyrs,0
+Terrorists Rocket Shells Claim 9 Civilians in Aleppo,0
+Jaysh al-Islam Fires Rocket Shells at Damascus Kills 3 Wounds 20,1
+Terrorist Bomb Targets Bus in Damascus Claims 6 Lebanese Martyrs 22 Injured,1
+11 Killed as Nusra Attacks US-Trained Militants in Syrias,0
+Israeli Drone Strike Kills 3 Popular Fighters in Syrias Quneitra,0
+Syria Civilian Killed Others Injured in Mortar Shells Bomb Attack,0
+ISIL Used Chemical Weapons against Syria Kurds in Hasakeh,0
+US-led Air Strikes Kill 7 Al-Nusra Gunmen in Syria,0
+Syrian Army Foils Takfiri Attack in Daraa Kills at least 50 Gunmen in Lattakia,0
+US Raids on ISILs Syria Stronghold Kill 22 including Civilians,1
+Terrorist Blast Kills Grand Mosque Imam in Damascus,1
+Five Civilians Killed in Terrorist Rocket Attacks in Aleppo,0
+ISIL Terrorists Execute 24 Civilians after Seizing Syria Village,1
+Syria Dozens Martyred Injured in Qamishli ISIL Terrorist Attack,1
+Death Toll from Terrorist Attacks in Aleppo City Rises to 11 44 Injured,0
+US-led Coalition Strikes Kill 21 Civilians in Northern Syria,1
+Russian Strikes Kill 18 ISIL Fighters in Syria,0
+Syrian Forces Foil Raid on Castello Kill 29 Militants,1
+Syria Terrorists Target Aleppo with Over 10 Rocket Shells,1
+5 Civilians Killed in Terrorist Rocket Attacks in Aleppo,0
+Syrian Army Allies Kill 100 Terrorists in Mallah Farms in Aleppo,0
+7 Civilians Killed 25 Injured in Terrorist Car Attack in Tal Abyad Raqqa,0
+7 Civilians Injured in New Terrorist Rocket Attack in Aleppo,1
+Syrian Army Advances in Latakia Kills 16 Terrorists,0
+Syria Terrorist Attacks in Aleppo Claim 20 Martyrs,0
+3 Civilians Killed 38 Injured in Terrorist Rocket Attacks in Deir Ezzor Aleppo,0
+40 Civilians Killed 100 Injured in New Terrorist Rocket Attacks in Aleppo,0
+Terrorist Bombing Claims 5 in Syrias Latakia,1
+3 Civilians Killed 38 Injured in Terrorist Rocket Attacks in Deir Ezzor Aleppo,1
+Over 20 Nusra Terrorists Killed in Hama,0
+One Killed Others Injured in Terrorist Attacks in Damascus Homs & Aleppo,0
+Syrian Army Kills over 125 Terrorists in Hama Breaks Siege on Zara Power Plant,1
+52 Dead as Rival Terrorist Groups Clash in Eastern Gouta Monitor,0
+Syria Five Civilians Killed in Terrorist Car Bomb Attack in Qamishli City,1
+5 Civilians Killed in Terrorist Rocket Attacks in Aleppo and Idleb,0
+Several Syrians Killed Injured in Homs Suicide Blasts- Al Manar TV Website Archive,0
+Suicide Bomber Kills Five Kurdish Police in Syria,1
+Syria 20 Civilians Killed Scores Injured in Terrorist Attacks in Aleppo,1
+4 Killed over 43 Injured in Terrorist Rocket Attacks in Aleppo Daraa,1
+Eight Martyred in Car Bomb near Sayyeda Zeinab Shrine,1
+Child killed 9 Civilians Injured in Terrorist Attacks in Damascus & Aleppo,0
+Syrian Army Kills 28 ISIL Terrorists in Hama,0
+Many Civilians Martyred as Terrorists Shell Aleppo,1
+Two Killed Three Injured in Terrorist Attack in Aleppo City,1
+Al-Nusra Spokesman Son 20 Terrorists Killed in Idleb Strikes,1
+Syrian Army Retakes Qaryatain City in Homs Kills over 50 Terrorists in Hama,0
+Syrian Army Kills 30 ISIL Terrorists in Aleppo Northern Countryside,0
+Syrian Army Advances in Aleppo Kills 140 Terrorists in Hama & Homs,0
+2 Syrians killed 5 Injured in Terrorist Rocket Attack in Deir Ezzor City,0
+Syria Terrorist Bombings Kill Injure Civilians in Hama Countryside,0
+Three Terrorist Attacks Target Sayyeda Zeinab Area in Rural Damascus Kill 50,0
+Syrian Army Kills over 70 ISIL Terrorists in Aleppo,0
+Dozens of Insurgents Killed As Syria Kurds Advance in Aleppo Countryside,0
+Eight Civilians Killed 14 Injured in Terrorist Bombing in Damascus,1
+Bombs Kill 22 at Army Checkpoint in Syrias Homs,1
+Car Bomb in Syrias Aleppo Kills 23 including Militants,0
+8 Civilians Killed in Terrorist Attacks in Damascus Aleppo,1
+Turkish Bombardment Kills 20 Civilians in Syria,1
+Martyrs as Terrorists Shell Aleppos Salah Eddin,1
+Chemical Attack Kills Five Syrians in Aleppo SANA,0
+5 Killed as Russian Military Chopper Shot down in Syria,1
+Syrian Army Kills 48 ISIL Terrorists in Deir Ezzor,1
