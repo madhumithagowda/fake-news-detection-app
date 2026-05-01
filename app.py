@@ -48,7 +48,6 @@ vectorizer = joblib.load("vectorizer.pkl")
 st.subheader("✍️ Enter a News Article")
 
 user_input = st.text_area("Enter news text below", height=200)
-user_email = st.text_input("📧 Enter your email to receive result:")
 
 if st.button("Check"):
     if user_input.strip() == "":
@@ -63,13 +62,6 @@ if st.button("Check"):
             st.success("✅ This news is Real.")
         else:
             st.error("❌ This news is Fake.")
-
-        # ✅ Send result by Email if email entered
-        if user_email.strip() != "":
-            if send_email(user_email, "Fake News Detection Result", result_message):
-                st.success("✅ Result sent to your email.")
-            else:
-                st.error("⚠️ Failed to send email. Check App Password and email address.")
 
 # ========== 2️⃣ BULK FILE UPLOAD ========== #
 st.markdown("---")
