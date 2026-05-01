@@ -1,0 +1,176 @@
+/* =============================
+   Global Page Styling
+============================= */
+
+.stApp {
+    background-color: #d4dff1;
+    color: #333333;
+    font-family: "Segoe UI", sans-serif;
+}
+
+/* =============================
+   Page Title Styling
+============================= */
+
+.stApp h1 {
+    color: #002244;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+/* =============================
+   Subheader Styling
+============================= */
+
+.stApp h3 {
+    color: #004080;
+    font-size: 26px;
+    margin-top: 25px;
+}
+
+/* =============================
+   Text Area Styling
+============================= */
+
+textarea {
+    background-color: #ffffff;
+    color: #333333;
+    border: 2px solid #004080;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/* =============================
+   Button Styling
+============================= */
+
+.stButton button {
+    background-color: #004080;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0.5em 1.2em;
+    font-weight: bold;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+.stButton button:hover {
+    background-color: #0066cc;
+    color: #ffffff;
+}
+
+/* =============================
+   File Uploader Styling
+============================= */
+
+.stFileUploader {
+    border: 2px solid #004080;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #ffffff;
+}
+
+/* =============================
+   Text Input Styling
+============================= */
+
+input[type="text"] {
+    border: 2px solid #004080;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100%;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+/* =============================
+   Spinner Styling
+============================= */
+
+.stSpinner {
+    color: #004080;
+    font-size: 18px;
+}
+
+/* =============================
+   Markdown Text Styling
+============================= */
+
+.stMarkdown {
+    font-size: 18px;
+}
+
+/* =============================
+   Sidebar Styling
+============================= */
+
+.css-1d391kg {
+    background-color: #f5f7fa;
+}
+
+.css-1d391kg h1,
+.css-1d391kg h3,
+.css-1d391kg h4,
+.css-1d391kg p {
+    color: #002244;
+}
+
+/* =============================
+   Pie Chart Background
+============================= */
+
+.stPlotlyChart {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+/* =============================
+   Download Link Styling
+============================= */
+
+a {
+    color: #004080;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+a:hover {
+    color: #0066cc;
+    text-decoration: underline;
+}
+
+/* =============================
+   Dark Mode Styling (Optional)
+============================= */
+
+body.dark-mode {
+    background-color: #1e1e1e;
+    color: #f0f0f0;
+}
+
+body.dark-mode textarea,
+body.dark-mode input[type="text"] {
+    background-color: #333333;
+    color: #f0f0f0;
+}
+
+body.dark-mode .stButton button {
+    background-color: #444444;
+    color: #f0f0f0;
+}
+
+body.dark-mode .stButton button:hover {
+    background-color: #666666;
+}
+
+body.dark-mode a {
+    color: #00c3ff;
+}
+
+body.dark-mode a:hover {
+    color: #66d9ff;
+}
